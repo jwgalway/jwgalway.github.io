@@ -1,0 +1,1139 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*======================== Changes font size for display Section ==================================*/
+
+@media screen and (min-width:5px){html{font-size:3px;}}
+@media screen and (min-width:70px){html{font-size:4px;}}
+@media screen and (min-width:150px){html{font-size:5px;}}
+@media screen and (min-width:230px){html{font-size:6px;}}
+@media screen and (min-width:310px){html{font-size:7px;}}
+@media screen and (min-width:390px){html{font-size:8px;}}
+@media screen and (min-width:470px){html{font-size:9px;}}
+@media screen and (min-width:550px){html{font-size:10px;}}
+@media screen and (min-width:630px){html{font-size:11px;}}
+@media screen and (min-width:710px){html{font-size:12px;}}
+@media screen and (min-width:790px){html{font-size:13px;}}
+@media screen and (min-width:870px){html{font-size:14px;}}
+
+/*======================== Layout Section ==================================*/
+
+body {
+	background-color: #87C3CE;
+	margin-top: 1.06952%;
+	margin-right: 1.1236%;
+	margin-left: 1.1236%;
+	margin-bottom: 1.06952%;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+body h4 {
+	padding-top: 2.13904%;
+	margin-bottom: -2.139%;
+	color: #538135;
+}
+
+#header {
+	background-color: #D8DEE8;
+	margin-top: 1.06952%;
+	margin-right: 1.1236%;
+	margin-left: 1.1236%;
+	margin-bottom: 1.06952%;
+	height: 10.6952%;
+	border-radius: 5px;
+}
+
+
+
+#header h3 {
+	font-size: 210%;
+	text-align: center;
+	color: #3C4AB3;
+	font-style: normal;
+	font-weight: 400;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-top: 0.534759%;
+	text-decoration: none;
+	margin-bottom: 1.06952%;
+}
+
+/*======================== Header Nav Bar Button's Section =============================*/
+
+#navbar ul {
+	padding: 5px;
+	list-style-type: none;
+	text-align: center;
+	background-color: #5F45C1;
+	margin-top: 1.06952%;
+	margin-right: 1.1236%;
+	margin-left: 1.1236%;
+	margin-bottom: 1.06952%;
+	border-radius: 5px;
+}
+
+#navbar ul li {
+	display: inline;
+}
+
+#navbar ul li a {
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #5F45C1;
+	padding-top: 0px;
+	padding-right: 1.1236%;
+	padding-bottom: 0px;
+	padding-left: 1.1236%;
+}
+
+#navbar ul li a:hover {
+	color: #5F45C1;
+	background-color: #ffffff;
+}
+
+/*======================== Top Side Bar To The Right Social Media Section ========================*/
+
+.imagesidetop1 {
+	width: 4.49438%;
+	float: right;
+	border-radius: 5px;
+	margin-top: 2.13904%;
+	margin-left: 0.561798%;
+	margin-right: 0.561798%;
+	margin-bottom: 1.06952%;
+	height: 4.27807%;
+	
+}
+
+.imagesidetop2 {
+	width: 4.49438%;
+	float: right;
+	border-radius: 5px;
+	margin-top: 2.13904%;
+	margin-left: 0.561798%;
+	margin-right: 0.561798%;
+	margin-bottom: 1.06952%;
+	height: 4.27807%;
+}
+
+.imagesidetop3 {
+	width: 4.49438%;
+	float: right;
+	border-radius: 5px;
+	margin-top: 2.13904%;
+	margin-left: 0.561798%;
+	margin-right: 0.561798%;
+	margin-bottom: 1.06952%;
+	height: 4.27807%;
+}
+
+.imagesidetop4 {
+	width: 4.49438%;
+	float: right;
+	border-radius: 5px;
+	margin-top: 2.13904%;
+	margin-left: 0.561798%;
+	margin-right: 0.561798%;
+	margin-bottom: 1.06952%;
+	height: 4.27807%;
+}
+	
+.imagesidetop5 {
+	width: 4.49438%;
+	float: right;
+	border-radius: 5px;
+	margin-top: 2.13904%;
+	margin-left: 0.561798%;
+	margin-right: 1.1236%;
+	margin-bottom: 1.06952%;
+	height: 4.27807%;
+}
+
+/*======================== Icon Above Left sidebar Section ==================================*/
+
+
+.imagesideleft1 {
+	width: 100%;
+	border-radius: 5px;
+	margin-bottom: 0.534759%;
+	height: 100%;
+	
+}
+
+
+/*======================== Icon Sidebar To The Right Section ==================================*/
+	
+.imagesideright1 {
+	width: 16.8539%;
+	float: right;
+	border-radius: 5px;
+	margin-left: 1.1236%;
+	margin-right: 1.1236%;
+	margin-bottom: 1.06952%;
+	clear: right;
+	height: 16.0428%;
+}
+
+.imagesideright2 {
+	width: 16.8539%;
+	float: right;
+	border-radius: 5px;
+	margin-left: 1.1236%;
+	margin-right: 1.1236%;
+	margin-bottom: 1.06952%;
+	clear: right;
+	margin-top: 0.534759%;
+	height: 16.0428%;
+}
+
+.imagesideright3 {
+	width: 16.8539%;
+	float: right;
+	border-radius: 5px;
+	margin-left: 1.1236%;
+	margin-right: 1.1236%;
+	margin-bottom: 1.06952%;
+	clear: right;
+	height: 16.0428%;
+	
+	
+}
+.imagesideright4 {
+	width: 16.8539%;
+	float: right;
+	border-radius: 5px;
+	margin-left: 1.1236%;
+	margin-right: 1.1236%;
+	margin-bottom: 1.06952%;
+	clear: right;
+	height: 16.0428%;
+	
+}
+
+/*======================== Bottom Left Icon Section ==================================*/
+
+.imagesideleft2 {
+	width: 16.8539%;
+	float: left;
+	border-radius: 5px;
+	margin-left: 1.1236%;
+	margin-right: 1.1236%;
+	margin-bottom: 1.06952%;
+	clear: left;
+	height: 16.0428%;
+}
+.imagemain1 {
+	width: 50%;
+	float: none;
+	border-radius: 5px;
+	margin-left: 6%;
+	margin-right: 0%;
+	margin-bottom: 1px;
+	clear: both;
+	height: 40%;
+	margin-top: 4%;
+}
+
+	
+/*======================== Left sidebar Section ==========================*/
+
+.sideleft1 {
+	background-color: #D8DEE8;
+	width: 12.3596%;
+	margin-right: 1.1236%;
+	margin-left: 1.1236%;
+	margin-bottom: 1.06952%;
+	padding-top: 1.06952%;
+	padding-right: 2.24719%;
+	padding-left: 2.24719%;
+	padding-bottom: 3.20856%;
+	border-radius: 5px;
+	font-size: 105%;
+	float: left;
+	color: #588135;
+	clear: left;
+}
+
+/*======================== Main Centre Section ===========================*/
+
+/*====== Main 1d:  for full page document =======*/
+
+
+.main1d {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 1.1236%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+/*======================== Main: for paragraph size sections ===========================*/
+
+
+.main {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 3.20856%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main1 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main2 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main3 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main4 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main5 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main6 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main7 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main8 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+.main9 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main10 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main11 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main12 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+.main13 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main14 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main15 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main16 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main17 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main18 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main19 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main20 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+
+.main21 {
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-right: 19.1011%;
+	margin-left: 19.1011%;
+	margin-bottom: 1.06952%;
+	padding-top: 1%;
+	padding-right: 3.37079%;
+	padding-left: 3.37079%;
+	padding-bottom: 2.6738%;
+	font-size: 110%;
+	border-radius: 5px;
+}
+/*======================== Apps main Section ===========================*/
+
+.imageapp1 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+.imageapp2 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: none;
+	
+}
+
+.imageapp3 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: right;
+	
+}
+
+.imageapp4 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 0px;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	top: 0px;
+	float: none;
+	clear: right;
+}
+
+.imageapp5 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+.imageapp6 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: none;
+	
+}
+
+.imageapp7 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: right;
+	
+}
+
+.imageapp8 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 0px;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	top: 0px;
+	float: none;
+	clear: right;
+}
+
+.imageapp9 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+.imageapp10 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: none;
+	
+}
+
+.imageapp11 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: right;
+	
+}
+
+.imageapp12 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 0px;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	top: 0px;
+	float: none;
+	clear: right;
+}
+
+.imageapp13 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+.imageapp14 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: none;
+	
+}
+
+.imageapp15 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: right;
+	
+}
+
+.imageapp16 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 0px;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	top: 0px;
+	float: none;
+	clear: right;
+}
+
+/*======================== Site map main Section ===========================*/
+
+.imageicon1 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+.imageicon2 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.474157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: none;
+	
+}
+
+.imageicon3 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 1.174157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: right;
+	
+}
+
+.imageicon4 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 1.174157%;
+	margin-right: 0px;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	top: 0px;
+	float: none;
+	clear: right;
+}
+
+.imageicon5 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+.imageicon6 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: .974157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+
+.imageicon7 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 1.174157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: right;
+	
+}
+
+.imageicon8 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 1.174157%;
+	margin-right: 0px;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	top: 0px;
+	float: none;
+	clear: right;
+}
+
+.imageicon9 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+.imageicon10 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: none;
+	
+}
+
+.imageicon11 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: right;
+	
+}
+
+.imageicon12 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 0px;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	top: 0px;
+	float: none;
+	clear: right;
+}
+
+.imageicon13 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	aline: centre;
+	valine: top;
+	clear: right;
+	float: none;
+	height: 10.6952%;
+}
+
+.imageicon14 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: none;
+	
+}
+
+.imageicon15 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: 0.674157%;
+	margin-right: 1.1236%;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	float: none;
+	clear: right;
+	
+}
+
+.imageicon16 {
+	width: 13.4831%;
+	border-radius: 5px;
+	margin-top: 1.06952%;
+	margin-left: .774157%;
+	margin-right: 0px;
+	margin-bottom: 0.534759%;
+	height: 10.6952%;
+	aline: centre;
+	valine: top;
+	top: 0px;
+	float: none;
+	clear: right;
+}
+
+/*======================== Heading Section =============================*/
+
+h1 {
+	font-size: 120%;
+	color: #538135;	
+}
+
+h2 {
+	font-size: 120%;
+	color: #3C4AB3;
+}
+
+h4 {
+	font-size: 250%;
+	color: #3C4AB3;
+	margin-left: 1.1236%;
+	margin-top: 2.13904%;
+	margin-right: 1.1236%;
+}
+	
+#footer {
+	background-color: #D8DEE8;
+	margin-top: 1.0695%;
+	margin-right: 1.1236%;
+	margin-left: 1.1236%;
+	margin-bottom: 1.0695%;
+	height: 6.41711%;
+	border-radius: 5px;
+	color: #588135;
+	text-align: center;
+	padding-top: 1.60428%;
+	padding-right: 1.68539%;
+	padding-bottom: 1.60428%;
+	padding-left: 1.68539%;
+	font-size: 90%;
+	clear: both;
+	
+}
+
+/*======================== Footer Nav Bar Button's Section ========================*/
+
+#footer ul {
+	padding: 5px;
+	list-style-type: none;
+	text-align: center;
+	background-color: #5F45C1;
+	margin-top: 1.06952%;
+	margin-right: 1.1236%;
+	margin-left: 1.1236%;
+	margin-bottom: 1.06952%;
+	border-radius: 5px;
+
+}
+
+#footer ul li {
+	display: inline;
+}
+
+#footer ul li a {
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #5F45C1;
+	padding-top: 0px;
+	padding-right: 1.1236%;
+	padding-bottom: 0px;
+	padding-left: 1.1236%;
+}
+
+#footer ul li a:hover {
+	color: #5F45C1;
+	background-color: #ffffff;
+}
+
+#wrappage {
+	max-width: 890px;
+	margin: 0 auto;
+}
+
+body p {
+	margin: 0;
+}
